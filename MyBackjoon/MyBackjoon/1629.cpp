@@ -12,7 +12,7 @@ int main()
 
 	cin >> a >> b >> c;
 
-	result = divide_conq(a, b, c);	
+	result = divide_conq(a, b, c);
 	
 	int d = result % c;
 
